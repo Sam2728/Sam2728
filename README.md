@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Sam, a passionate programmer with a strong interest in software development and data structures & algorithms. I enjoy solving complex problems and learning new technologies. Currently, I'm working on various projects that challenge my skills and help me grow as a developer.
+I'm Sam, a Highly organized and proactive student with excellent communication skills and a strong work ethic. Proven ability to work well in team environments and collaborate effectively with peers.I can able to develop professional skills as much as soon and contribute to a dynamic organization.
 
 ## Education
 
