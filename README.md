@@ -6,7 +6,7 @@ I'm Sam, a Highly organized and proactive student with excellent communication s
 
 ## Education
 
-- **Studying** Bachelo of Technology in Information Technology - Anna University, Year - 2025
+- **Studying** Bachelor of Technology in Information Technology - Anna University, Year - 2025
 - High School - Mani Public Academy - Matric HS School, Year - 2021
 
 ## Contact Me
