@@ -54,5 +54,4 @@ Feel free to reach out to me :
 
 ## RoadCard
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66e391374ffb3bc3b06da8fa?variant=dark" alt="roadmap.sh"/></a>
 [![Sam's Progress at roadmap.sh](https://roadmap.sh/card/wide/66e391374ffb3bc3b06da8fa?variant=dark)](https://roadmap.sh)
