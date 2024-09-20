@@ -48,9 +48,6 @@ Feel free to reach out to me :
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam2728&show_icons=true&theme=radical)
 
-## Contribution Graph
-
-[![Sam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sam2728&bg_color=000000&color=caf0fe&line=ffffff&point=919191&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## RoadCard
 
